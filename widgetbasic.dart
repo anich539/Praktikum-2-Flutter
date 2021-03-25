@@ -19,7 +19,7 @@ class _WidgetBasicState extends State<WidgetBasic> {
         ),
         backgroundColor:Colors.teal,
             body:Row(
-                mainAxisAlignment:MainAxisAlignment.spaceEvenly,
+                mainAxisAlignment:MainAxisAlignment.spaceBetween,
                 children:<Widget>[
                     Container(
                         width:100,
